@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God save the King, and prosper him and his Parliament: or, A justification by the word of God, of the Kings gracious proffer for liberty of conscience, made to his Parliament and subjects, before he came into England, in matters disputable. By Theophilus Brabourn.</title>
+            <author>Brabourne, Theophilus, b. 1590.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77211</idno>
+            <idno type="STC">Wing B4092</idno>
+            <idno type="STC">Thomason E1038_6</idno>
+            <idno type="STC">ESTC R207866</idno>
+            <idno type="EEBO-CITATION">99866893</idno>
+            <idno type="PROQUEST">99866893</idno>
+            <idno type="VID">119181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119181)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1038[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God save the King, and prosper him and his Parliament: or, A justification by the word of God, of the Kings gracious proffer for liberty of conscience, made to his Parliament and subjects, before he came into England, in matters disputable. By Theophilus Brabourn.</title>
+                  <author>Brabourne, Theophilus, b. 1590.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and are to be sold by booksellers in London, and by William Nowell, book-seller in Norwich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119181:1" rendition="simple:additions"/>
+            <p>God ſave the King, And Proſper Him and His PARLIAMENT: OR, A juſtification by the Word of
+God, of the Kings gracious proffer for <hi>LIBERTY</hi> of <hi>CONSCIENCE,</hi> Made to His
+Parliament and Subjects, before he came into ENGLAND, In Matters diſputable.</p>
+            <p>By <hi>THEOPHIL<g ref="char:V">Ʋ</g>S BRABO<g ref="char:V">Ʋ</g>RN.</hi>
+            </p>
+            <q>
+               <p>Him that is weake in the Faith, receive unto you; but not put away from you,</p>
+               <bibl>
+                  <hi>Rom. 14.1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>One believeth that he may eat of all things: another which is weake, eateth herbs</p>
+               <p>Let not him that eateth, deſpiſe him that eateth not: and let not him which eateth not,
+condemn him that eateth,</p>
+               <bibl>
+                  <hi>Rom. 14.2, 3.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>For we ſhall all appear before the Judgement-Seat of Chriſt,</p>
+               <bibl>
+                  <hi>Rom 14.10.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And every one of us ſhall give an account of himſelf unto God. Let us not therefore judge or
+condemn one another any more,</p>
+               <bibl>
+                  <hi>Rom. 14.10, 12, 13.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Judge nothing before the time, untill the Lord Chriſt come,</p>
+               <bibl>
+                  <hi>1 Cor. 4.5.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for the Author, and are to be ſold by Bookſellers in
+<hi>London,</hi> and by <hi>William Nowell,</hi> Book-ſeller in Norwich, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119181:2"/>
+            <pb n="3" facs="tcp:119181:2"/>
+            <head>A JUSTIFICATION BY THE Word of God, of the KINGS gracious proffer for <hi>Liberty</hi> of
+<hi>Conſcience,</hi> made to the Parliament and his Subjects before he came into
+<hi>ENGLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT Chriſtians ſhould be all of one heart, and of one minde, in all points of Religion, is
+a thing highly to be deſired by every good man, but not to be expected in this life by the
+wi<g ref="char:EOLhyphen"/>ſeſt of men.</p>
+            <p>Are not the Scriptures <hi>darke,</hi> and hard to be underſtood, 2 <hi>Pet.</hi> 3.16. in
+many diſputable points among us, ſo as every man cannot light upon the Truth? Are all
+Miniſters and others of one ſtature in knowledge? Have not one man five talents, another four,
+and another four? How is it poſ<g ref="char:EOLhyphen"/>ſible then, that every one of theſe ſhould be of one
+opinion in all things? Can he that hath but one or two talents under<g ref="char:EOLhyphen"/>ſtand as much as he that
+hath five? Or is any one <hi>perfect</hi> in knowledge? There are and ever were <hi>ſtrong</hi>
+Chriſtians, and <hi>weake:</hi> wherefore the <hi>ſtrong muſt bear with the weake,</hi> not
+per<g ref="char:EOLhyphen"/>ſecute the weak, <hi>Rom.</hi> 15.1.</p>
+            <p>In thoſe pureſt Churches in the Apoſtles dayes, they were not all of one heart and minde:
+for ſome believers ſtood up for <hi>dayes</hi> and <hi>meats,</hi> others were of a contrary
+minde, <hi>Rom.</hi>
+               <pb n="4" facs="tcp:119181:3"/>14. Some hold it lawfull to eat-meats ſacrificed to <hi>Idols,</hi> but others
+hold it unlawfull, 1 <hi>Cor.</hi> 10.25, 28. Now if thoſe <hi>pureſt</hi> Churches had ſuch
+differences in opinion, who can think our Churches ſhould be free? What marvail is it that we
+have <hi>Epiſcoparians, Presbyterians, Independents, Anabaptiſts,</hi> and other differences in
+opinions? It will never be otherwiſe un<g ref="char:EOLhyphen"/>till we get into heaven, where we ſhall be perfect in
+Know<g ref="char:EOLhyphen"/>ledge: in the mean time, we muſt exerciſe <hi>patience</hi> one to<g ref="char:EOLhyphen"/>wards another, the
+ſtrong muſt <hi>bear</hi> with the weak.</p>
+            <p>Theſe things premiſed, I come to the point in queſtion; which is <hi>Liberty of
+Conſcience:</hi> Touching which, know all men, that I defend not a looſe and wicked liberty,
+for any man to ſpeak or practice contrary to a light in Scripture <hi>clear<g ref="char:EOLhyphen"/>ly</hi> revealed: I
+pefend onely a liberty in <hi>diſputable</hi> points, ſuch as both parties do alleadg Scripture
+one againſt another, or either of them for himſelfe: or when one alleageth a Scrip<g ref="char:EOLhyphen"/>ture, the
+ſenſe whereof is dark and doubtfull to the other.</p>
+            <p>Before I prove my queſtion, give me leave to ſhew the <hi>ori<g ref="char:EOLhyphen"/>ginall</hi> riſe, and evill
+<hi>fruits</hi> of the Magiſtrates puniſhing the people for diſputable points in Religion:
+The <hi>Pope</hi> began it; for he and his Clergy never left till they had moved Parlia<g ref="char:EOLhyphen"/>ments to
+enact cruell Lawes againſt Proteſtants, to burn them to aſhes, that ſo his Catholique
+Church might be all of one heart and mind: Now the Sacraments of the Altar, or Chriſts corporall
+preſence was in thoſe dayes a diſputable point, both ſides alleaging Scripture: and ſee
+the evill <hi>fruits</hi> of this perſe<g ref="char:EOLhyphen"/>cution? The <hi>Magiſtrate</hi> made himſelf guilty
+of ſhedding the innocent blood of multitudes of godly Martyrs.</p>
+            <p>And ſince the <hi>Pope,</hi> our <hi>Biſhops</hi> abuſing the Kings autho<g ref="char:EOLhyphen"/>rity, have
+impriſoned ſome, and vexed, ſued and moleſted others in their Courts, for things then
+diſputable, as for open<g ref="char:EOLhyphen"/>ing their Shops, or working on Popiſh Holy-days, for refu<g ref="char:EOLhyphen"/>ſing the
+Croſs in Baptiſm, for Surplice, Hood, and Tipet, with other popiſh trinkets: now ſee one of
+the evil <hi>fruits</hi> hereof to the King; he loſt the hearts of many of his Subjects ſo
+much, for arming his Biſhops with his authority, as when the King and Parliament made War,
+thouſands of his Subjects fell from him in his greateſt need of them, and joyned with the
+Par<g ref="char:EOLhyphen"/>liament. Thoſe that love the King, ſhould not exaſperate him,
+<pb n="5" facs="tcp:119181:3"/>but perſwade him for his own ſafety, to bear as much as poſ<g ref="char:EOLhyphen"/>ſible may be
+with thoſe who make conſcience in matters diſ<g ref="char:EOLhyphen"/>putable: But thoſe who perſwade him
+otherwiſe, are none of the Kings beſt friends. For a <hi>King</hi> who is over all, muſt ſo
+order his government, as he may have the hearts of all: but not for a diſputable point in
+Religion, to looſe the hearts of many. Men will do much for their civill rights, but much more
+for their Conſciences; yet I juſtifie not Rebellion upon any account.</p>
+            <div n="1" type="argument">
+               <head>
+                  <hi>1.</hi> Argument.</head>
+               <p>The Magiſtrate hath not received any <hi>Authority</hi> from God to compell, or conſtrain by
+greater or leſſer puniſhments, the conſciences of men in matters diſputable: and
+therefore he may maintain <hi>Liberty of Conſcience</hi> in ſuch things: ſearch the
+Scriptures of the Old and New Teſtaments, and you ſhall find no ſuch authority committed to
+the Magiſtrate.</p>
+               <p>As for the <hi>Old Teſtament,</hi> I confeſſe there the Magiſtrate had authority to
+puniſh with death the Murtherer, the Adul<g ref="char:EOLhyphen"/>terer, and the Idolater, that worſhipped the Sun,
+Moon, and Stars: but theſe were no diſputable points, but errors clearly revealed in Scripture:
+but you ſhall no where find the Magi<g ref="char:EOLhyphen"/>ſtrate impowred from God, to puniſh any for matters
+diſputa<g ref="char:EOLhyphen"/>ble and doubtfull.</p>
+               <p>As for the <hi>New Teſtament,</hi> neither Chriſt nor his Apoſtles left any order for the
+Magiſtrate to puniſh any for the liberty of his <hi>Conſcience</hi> in things doubtfull and
+diſputable. Excom<g ref="char:EOLhyphen"/>munication was for <hi>inceſt,</hi> 1 <hi>Cor.</hi> 5.1. &amp;c. which is a
+ſcanda<g ref="char:EOLhyphen"/>lous ſin, and clearly condemned in Scripture, but not for points doubtfull and
+diſputable: I may therefore conclude, that God hath not given the Magiſtrate any authority in
+the Old or New Teſtament to puniſh any for liberty of his <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> in things
+diſputable: wherefore the Magiſtrate may maintain <hi>liberty of Conſcience</hi> in ſuch
+things.</p>
+            </div>
+            <div n="2" type="argument">
+               <head>
+                  <hi>2.</hi> Argument.</head>
+               <p>It is againſt the <hi>common</hi> light of <hi>Reaſon</hi> in all men, to pu<g ref="char:EOLhyphen"/>niſh any for
+a fault which is diſputable and doubtfull: ſo you have the judgement of all men againſt
+this.</p>
+               <pb n="6" facs="tcp:119181:4"/>
+               <p>Furthermore, in a diſputable point, St. <hi>Paul</hi> reckons him that holds the truth to be a
+<hi>ſtrong</hi> brother, and him that is in the errour a <hi>weake</hi> brother, <hi>Rom.</hi>
+14. Now is it not contrary to <hi>reaſon,</hi> that a Magiſtrate ſhould by puniſhment
+conſtrain a weak man to do more than he can do? or carry a burthen above his ſtrength?</p>
+               <p>But Papiſts who maintain <hi>Free-will,</hi> and perſecution for
+<hi>Conſcience</hi>-ſake will ſay, as ſome Proteſtants do among us, theſe men can alter
+their minds if they <hi>will,</hi> but they are ob<g ref="char:EOLhyphen"/>ſtinate Hereticks, or Schiſmaticks, after a
+ſufficient convi<g ref="char:EOLhyphen"/>ction.</p>
+               <p>I reply. 1. Doth perſeverance in an opinion ſignifie ob<g ref="char:EOLhyphen"/>ſtinacy? Why then all that
+perſevere in the trueth are obſti<g ref="char:EOLhyphen"/>nate perſons, and ſuch were our Martyrs: it ſignifies
+ſelf-perſwaſion, but not obſtinacy: and may not a multitude be obſtinate as well as a
+few?</p>
+               <p n="2">2. St. <hi>Paul</hi> knew as well as we or Papiſts, what belongs to diſputable points,
+yet he made no ſuch objections againſt an erring perſon: he calls him a <hi>brother,</hi> and
+a weak brother, not an obſtinate perſon, or an obſtinate Heretick: he would not have a weak
+brother burnt or excommunicated, but <hi>borne</hi> withall, <hi>Rom.</hi> 15.1. <hi>We that are
+ſtrong, ought to bear the infir<g ref="char:EOLhyphen"/>mities of the weak.</hi>
+               </p>
+               <p n="3">3. You talk of <hi>ſufficient conviction,</hi> but where is it? neither at
+<hi>Rome,</hi> nor in <hi>England:</hi> hath any man the ſpirit of infallibi<g ref="char:EOLhyphen"/>lity to determine of
+all the controverſal opinions in Religion? or of all all doubtful and diſputable points? But
+ſuppoſe ſome man had; as if any had, St. <hi>Paul</hi> had it: yet is not this ex<g ref="char:EOLhyphen"/>cellent
+means often obſtructed among us, and made invalid? partly for weakneſs of underſtanding and
+judgement in the party to be inſtructed, and partly through the fleſh and cor<g ref="char:EOLhyphen"/>ruption of nature
+in all men more or leſſe? <hi>Gal.</hi> 5.17. <hi>Rom.</hi> 7.18, 19. <hi>Mat.</hi> 26.41. Now
+both theſe render a man a weak <hi>brother:</hi> and if he be weak, then is he to be born with,
+not perſecuted, <hi>Rom.</hi> 15.1.</p>
+               <p>Yet further, Is there not more <hi>reaſon</hi> that one Chriſtian brother ſhould bear the
+infirmities and weakneſs in <hi>Conſcience</hi> of another, then to excite or deſire the
+Magiſtrate to puniſh him for it? The Scriptures do often excite us to patience, and
+<pb n="7" facs="tcp:119181:4"/>Miniſters in Pulpit do the ſame, and every man hath it in his tongue,
+ſaying, we muſt be patient: but where is the man that will practiſe it? God calls us to
+patience in theſe things, but we refuſe to uſe it. Do not the moſt ſay, Oh! he is one of
+dangerous opinions, 'tis pity he lives? Oh that the Parlia<g ref="char:EOLhyphen"/>ment would enact ſome ſevere Law to
+puniſh him? Where's thy <hi>patience</hi> then, whileſt thou deſireſt <hi>revenge?</hi> Is
+there not more <hi>reaſon</hi> that the Magiſtrate ſhould excite ſuch impatient ſpirits
+to exerciſe their patience, then for them to excite the Magiſtrate by his Law to puniſh and
+revnge?</p>
+            </div>
+            <div n="3" type="argument">
+               <head>
+                  <hi>3.</hi> Argument.</head>
+               <p>It is againſt that golden <hi>Rule</hi> of our <hi>Saviour,</hi> for the Magi<g ref="char:EOLhyphen"/>ſtrate to
+puniſh, or for the people to deſire him to puniſh a<g ref="char:EOLhyphen"/>ny for his <hi>Conſcience</hi> in
+matters diſputable: For Chriſt ſaid, <hi>Whatſoever ye would that men ſhould do you, even
+ſo do you to them,</hi> Mat. 7.12.</p>
+               <p>Now our whole <hi>Kingdome</hi> are a multitude of none but <hi>Se<g ref="char:EOLhyphen"/>ctaries</hi> in diſputable
+points: though they be unanimous and orthodox in the cleer Fundamentals, yet are they divided in<g ref="char:EOLhyphen"/>to
+dark Diſputables: For the <hi>Epiſcoparian</hi> is a Sect divided from all others, ſo is the
+<hi>Preſbyterian,</hi> ſo is the <hi>Independent,</hi> and ſo is the <hi>Anabapiſt,</hi>
+&amp;c. And if the Parliament ſhould own none but <hi>Preſbyterians,</hi> yet theſe are but
+Sectaries, be<g ref="char:EOLhyphen"/>cauſe divided from all others; and the greateſt ſort they may be, and yet but a
+Sect. Now the <hi>Epiſcoparian</hi> would have liberty for themſelves to read the
+<hi>Common-Prayer,</hi> but would not that any of the other ſorts ſhould enjoy the liberty of
+their <hi>Conſciences:</hi> It may be the like is true of thoſe other ſorts of
+<hi>Preſbyters, Independents,</hi> and <hi>Anabaptiſts:</hi> But why ſhould Chriſtians be
+ſo ſelfiſh and <hi>partiall?</hi> is not one mans <hi>Conſcience</hi> as tender to him, as
+another mans is to him? Where is the practiſe of our Saviours rule? to do that for an<g ref="char:EOLhyphen"/>other man,
+which we would he ſhould do for us. The Ma<g ref="char:EOLhyphen"/>giſtrate therefore being of one <hi>Sect</hi> or
+other, muſt be as wil<g ref="char:EOLhyphen"/>ling to give liberty to others, as to take it for himſelf.</p>
+            </div>
+            <div n="4" type="argument">
+               <pb n="8" facs="tcp:119181:5"/>
+               <head>
+                  <hi>4.</hi> Argument.</head>
+               <p>It is againſt <hi>Chriſtian charity</hi> to the <hi>ſoules</hi> of the people, for a
+Magiſtrate by puniſhment, to conſtrain them to ſin againſt their own ſouls unto
+perdition.</p>
+               <p>For if the people for fear of puniſhment ſhall do any thing againſt their
+<hi>Conſciences,</hi> they ſin againſt conſcience, <hi>Rom.</hi> 14.14, 23. And the
+Magiſtrate by his conſtraint of them doth what in him is to <hi>deſtroy</hi> them eternally,
+<hi>Rom</hi> 14.15. and to drive them to everlaſting <hi>perdition</hi> of ſoule and body, 1
+<hi>Cor.</hi> 8 11, 12.</p>
+               <p>Now God forbid, that any Chriſtian Magiſtrate ſhould be ſo ſevere, as by his hard
+Lawes, to force any man to deſtroy himſelf eternally: and not onely ſo, but alſo to make
+himſelf guilty of his peoples deſtruction: Is it not better for him to grant liberty of
+conſcience?</p>
+            </div>
+            <div n="5" type="argument">
+               <head>
+                  <hi>5.</hi> Argument.</head>
+               <p>It is againſt <hi>Juſtice</hi> for a Magiſtrate to puniſh any man for a diſputable
+opinion.</p>
+               <p>In matters of Juſtice, God forbad the Magiſtrates to admit of one ſingle witneſſe, as
+being not clear enough, and there<g ref="char:EOLhyphen"/>fore for more certainty there muſt be two or three
+witneſſes, <hi>Deut.</hi> 19.15. and ſee <hi>Deut.</hi> 17.4, 5. our Magiſtrates will not
+puniſh any man, unleſſe the Fact be clearly againſt the Law, probabilities are nothing: how
+then can the Magiſtrate do in<g ref="char:EOLhyphen"/>juſtice to puniſh for a diſputable opinion, which is
+doubtful?</p>
+               <p>Yet further, If the Magiſtrate condemns for a diſputable o<g ref="char:EOLhyphen"/>pinion, out of doubt
+<hi>ſometime</hi> he ſhall condemn unjuſtly, and <hi>alwayes</hi> be in danger ſo to do,
+for want of the judgement of certainty: wherefore in theſe diſputable points the Magi<g ref="char:EOLhyphen"/>ſtrate
+ſhould do well to forbear his judgement until Chriſt the Judge come: when <hi>we ſhall all
+appear before the judgement-ſeat of Chriſt, and every one of us give an account of himſelf to
+God,</hi> Rom. 14.10, 12. <hi>Let us not therefore judge one another any more,</hi> Rom. 14.13.
+<hi>Judge nothing before the time, untill the Lord come,</hi> &amp;c. 1 <hi>Cor.</hi> 4.5.</p>
+               <p>But it will be ſaid, may not the Magiſtrate call into his help ten or twenty learned and
+godly Miniſters, and then
+<pb n="9" facs="tcp:119181:5"/>judge of the opinion? May not many Miniſters judge of the opinion of two or
+three private perſons?</p>
+               <p>I anſwer. 1. There are no learned and godly Miniſters who have the ſpirit of certainty and
+infallibility, in a doubtful or diſputable opinion. 2. The Miniſters call'd into the help of
+the Magiſtrate, are ever of a contrary opinion to his who is accuſed: and therefore they are
+incompetent judges: May the Plaintiff judge the Defendant? or the <hi>Preſbyterian</hi> the
+<hi>Independent?</hi> then may we know the Verdict before the Jury be impanelled: Theſe things
+conſidered, oh! that ſince <hi>God</hi> hath left many things in Scripture diſputable, out
+<hi>Parliaments</hi> and <hi>Magiſtrates</hi> would leave them ſo too.</p>
+            </div>
+            <div n="6" type="argument">
+               <head>
+                  <hi>6.</hi> Argument.</head>
+               <p>It will be a great <hi>folly</hi> in the Magiſtrate to attempt by his authority, to do that
+which is <hi>impoſſible</hi> to be done: Will a wiſe man attempt to empty the water in the
+Sea, or to waſh a Blackamoor white? Such is his attempt, that thinks by law<g ref="char:EOLhyphen"/>full means to bring
+all men to be of one mind and opinion in things doubtfull and diſputable: the Magiſtrate may as
+well cure one ſick of an Ague or Feaver by his Sword, as by it to to inform and reform a doubtful
+and weak <hi>Conſcience;</hi> this is the Miniſters office, not the Magiſtrates.</p>
+               <p>In the Apoſtles dayes, when the Church was moſt pure, there was great differences in
+opinions, and high conteſts a<g ref="char:EOLhyphen"/>mong Chriſtians about <hi>dayes</hi> and <hi>meates, Rom.</hi>
+14.2.5, 3.10. Now if all men were not of one opinion in thoſe pureſt Chur<g ref="char:EOLhyphen"/>ches, what hope hath
+the Magiſtrate to avoid all differences in opinion in our Church?</p>
+               <p n="2">2. Conſider the <hi>obſcurity</hi> of Scripture in diſputable points. St.
+<hi>Peter</hi> ſaith of St. <hi>Pauls</hi> Epiſtles, <hi>ſome things are hard to be
+underſtood,</hi> 2 Pet. 3.15, 16. And herewithall conſider alſo, that the wiſeſt men know
+but in part in this life, and the holi<g ref="char:EOLhyphen"/>eſt men are ſanctified but in part, ſo as too often
+their judge<g ref="char:EOLhyphen"/>ment is blinded by unmortified paſſions and affections: Now how is it poſſible
+that the Magiſtrate ſhould rectifie all theſe by his ſword? the which unleſs he could
+rectifie, it is altoge<g ref="char:EOLhyphen"/>ther in vain for him, to attempt to bring all men to be of one mind and
+opinion.</p>
+            </div>
+            <div n="7" type="argument">
+               <pb n="10" facs="tcp:119181:6"/>
+               <head>
+                  <hi>7.</hi> Argument.</head>
+               <p>In the <hi>Church</hi> of God, in the Jewiſh Nation, many people were ſuffered to live under
+the <hi>authority</hi> of <hi>Moſes</hi> and the Magiſtrates, who were of different opinions
+from the moſt of the people.</p>
+               <p>For they had <hi>ſtrangers</hi> among them, who were no Proſe<g ref="char:EOLhyphen"/>lytes, or of the Jewiſh
+Religion, and yet they were not con<g ref="char:EOLhyphen"/>ſtrained by the Magiſtrate to become Proſelytes: For the
+Text ſaith, <hi>If a ſtranger</hi> will, <hi>&amp;c. let</hi> him, <hi>&amp;c. Exod.</hi>
+12.48. It was left to his choiſe and <hi>will:</hi> no puniſhment was appointed to compell
+them: none though he neglected their <hi>Sacraments</hi> of Circumciſion and the Paſſeover:
+none, though he did eate meats which the Jewes abhorred to eat, <hi>Deut.</hi> 14.21.
+<hi>Moſes</hi> and the Magiſtrates, with <hi>Aaron</hi> the high Prieſt, did all al<g ref="char:EOLhyphen"/>low of
+this liberty: and why then may not the King and Ma<g ref="char:EOLhyphen"/>giſtrates, with all the Clergy, allow of
+liberty of Conſci<g ref="char:EOLhyphen"/>ence in our dayes, in matters diſputable among Chri<g ref="char:EOLhyphen"/>ſtians?</p>
+            </div>
+            <div n="8" type="argument">
+               <head>
+                  <hi>8.</hi> Argument.</head>
+               <p>If the King and Magiſtrates under him will govern by St. <hi>Pauls Diſcipline,</hi> then
+they muſt govern by the diſcipline of <hi>liberty of Conſcience:</hi> the which I thus
+prove.</p>
+               <p>St. <hi>Paul</hi> ſaid, we which are ſtrong <hi>ought</hi> to bear the infir<g ref="char:EOLhyphen"/>mities of the
+weak, and not to <hi>pleaſe</hi> our ſelves, <hi>Rom.</hi> 15.1. and ſee <hi>Gal.</hi> 6.1,
+2. And he rebuked the believing <hi>Romans,</hi> for that the ſtrong <hi>deſpiſed</hi> the
+weak, and the weak <hi>judged</hi> and <hi>condemned</hi> the ſtrong, <hi>Rom</hi> 14.3, 10.13.
+Now what other thing is this <hi>toleration</hi> of St. <hi>Paul,</hi> and bearing with the weak in
+matters of conſcience, but <hi>liberty of Conſcience?</hi> and no o<g ref="char:EOLhyphen"/>ther thing is ſignified
+by this, that he would not have believers to deſpiſe one another, or to judge and condemn one
+ano<g ref="char:EOLhyphen"/>ther for <hi>conſcience</hi> ſake, and differences in judgements.</p>
+               <p>The differences in thoſe dayes were about the <hi>Ceremonies</hi> of <hi>meates,</hi> and
+<hi>drinkes,</hi> and <hi>Holydayes,</hi> Rom. 14. Now we have too many Miniſters of impatient
+ſpirits, who cannot endure St. <hi>Pauls</hi> liberty of <hi>Conſcience,</hi> and to uſe
+patience in bearing with the weakneſs of others; but like better of
+<pb n="11" facs="tcp:119181:6"/>uncharitable perſecution; theſe have learned an evill art of
+<hi>aggravation,</hi> by conſequences to wyre-draw, and draw blood from the opinion contrary to
+themſelves, and have drawn the people to hate and deſpiſe the perſons of that opinion:
+ſuch Miniſters if they had lived in thoſe dayes, could with the high <hi>Prieſt</hi> have
+made Chriſt guilty of <hi>blaſphemy,</hi> Mat. 26.65. and St. <hi>Paul</hi> and
+<hi>Heretick,</hi> Acts 24.14. and theſe weak chriſtian Romans <hi>obſtinate hereticks:</hi>
+For by their uſe of <hi>meats</hi> and <hi>dayes</hi> after Chriſt was come, they ſignified
+that Chriſt was not come, but expected to come, as the hereticall <hi>Jewes</hi> do at this day:
+<hi>Meats</hi> and <hi>Dayes</hi> were types and ſhadows of Chriſt to come, <hi>Coloſ.</hi>
+2.16, 17. Now no doubt St. <hi>Paul</hi> had as ſuf<g ref="char:EOLhyphen"/>ficiently inſtructed and convicted theſe
+believing <hi>Romans</hi> of their errour, as any Miniſter in theſe our dayes can any man in
+his errour; yet St. <hi>Paul</hi> did not count them obſtinate here<g ref="char:EOLhyphen"/>ticks, nor by aggravations
+and conſequences draw them to be guilty of hereſie.</p>
+               <p>But it may be ſaid to me, of theſe different opinions among us, which party is the
+<hi>weaker,</hi> and which the <hi>ſtronger?</hi>
+               </p>
+               <p>I anſwer, To determine infallibly I cannot; I muſt leave it for Chriſt to do it at his
+coming, 1 <hi>Cor.</hi> 4.4, 5. I ſhall only anſwer by the opinion of our times: The multitude
+and great<g ref="char:EOLhyphen"/>eſt number countenanced by the <hi>King,</hi> will think themſelves the ſtrong. If
+ſo, then ſay I, thoſe ſtrong ones muſt bear with thoſe that are weak, and differ in
+opinion from them, <hi>Rom.</hi> 15.1. If the <hi>Preſbyterian</hi> think himſelf the ſtrong,
+he muſt bear with the weak <hi>Independent:</hi> Or if the <hi>Independent</hi> think himſelf
+the ſtrong, he muſt bear with the weak <hi>Presbyterian:</hi> and ſo of other opinioniſts,
+we muſt all bear one with ano<g ref="char:EOLhyphen"/>ther, <hi>Gal.</hi> 6.2. and ſo by a mutuall toleration, we
+ſhall live in love like Chriſtians. So far of my 8. Arguments</p>
+               <p>Thus I have made it appear, that the King and Parliament may maintain <hi>Liberty of
+Conſcience,</hi> and ought ſo to do by the Word of God. And now I come to anſwer ſundry
+obje<g ref="char:EOLhyphen"/>ctions raiſed againſt this truth.</p>
+               <p>Object. 1. <hi>If the Magiſtrate tolerate liberty of Conſcience, thereby he ſhall
+juſtifie,</hi> embolden, <hi>and harden ſome in their errours.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. St. <hi>Paul</hi> tolerated <hi>liberty of Conſcience,</hi> and yet
+<pb n="12" facs="tcp:119181:7"/>it will not follow that he did thereby juſtifie, embolden, and harden the weak
+believers in their errours. 2. The Magi<g ref="char:EOLhyphen"/>ſtrate hath no authority from God to puniſh any for a
+diſpu<g ref="char:EOLhyphen"/>table errour, as hath been proved, and therefore no blame is in him: he cannot reform that
+which is not in his power to reform. 3. He hath no infallible guide; to know which ſide is in the
+errour, how then can he puniſh any? 4. If any harden their heart in errour becauſe it is
+tolerated, them<g ref="char:EOLhyphen"/>ſelves ſhall anſwer to God for it, at the appearing of Chriſt the Judge of
+quick and dead, <hi>Rom.</hi> 14.10, 12.</p>
+               <p>Object 2. <hi>Yea, but if the Magiſtrate tolerate errours, he tolerates</hi> ſins: <hi>many
+ſay, to tolerate errour, is to tolerate ſin.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. <hi>Sin</hi> is the tranſgreſſion of the <hi>Law,</hi> 1 John 3 4. Now
+in diſputable points, no opinioniſt deſireth liberty to break Gods Law, as to commit
+idolatry, to profane the Sab<g ref="char:EOLhyphen"/>bath, to commit adultery, to ſteal, or deal fraudulently, or to do
+any thing contrary to a light cleerly revealed: now in a diſputable point, no man can ſay for
+certain which is the ſin and which not: But ſuppoſe ſome man could ſay for certain, his
+is the ſin, yet St. <hi>Paul</hi> did <hi>tolerate</hi> the ſin of ignorance, t <hi>Rom.</hi>
+14. in weak Chriſtians. 2. Toleration is <hi>voluntary</hi> or <hi>neceſſary:</hi> now the
+Magiſtrates toleration is neceſſary, be<g ref="char:EOLhyphen"/>cauſe God hath not given them authority (as hath
+been pro<g ref="char:EOLhyphen"/>ved) to puniſh diſputable ſins.</p>
+               <p>Object. 3. <hi>Some ſay, there can be but one truth, and one true Religion: Now to maintain
+ſundry and many opinions, is to maintain ſundry and many religions.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The queſtion is not about <hi>maintaining</hi> of ſundry o<g ref="char:EOLhyphen"/>pinions which
+are diſputable, but about <hi>toleration</hi> and bear<g ref="char:EOLhyphen"/>ing with them, ſo as they may be free of
+puniſhment: The Magiſtrate <hi>maintains</hi> the Doctrine of the ten Commande<g ref="char:EOLhyphen"/>ments, the
+Articles of Faith, with faith and repentance, and any thing clearly revealed in Scripture: all
+theſe may be reckoned for one truth and one Religion, becauſe we all agree herein as one: but
+as for diſputable points not cleerly revealed, the Magiſtrate may tolerate them, and not
+maintain or countenance them: and yet he ſhall not be ſaid to main<g ref="char:EOLhyphen"/>tain two or many Religions
+or Truths: St. <hi>Paul</hi> did tolerate the weak Chriſtians, who were of different opinions
+from the
+<pb n="13" facs="tcp:119181:7"/>ſtrong, and yet he did not maintain them, but diſpute againſt them: nor
+did he maintain ſundry Truths, and many Religi<g ref="char:EOLhyphen"/>ons. All things clearly revealed, make up but one
+Religion, and this we maintain: and yet may tolerate many diſputable opinions not clearly
+revealed.</p>
+               <p>Object. 4. <hi>Papiſts may ſay, if you tolerate liberty of Con<g ref="char:EOLhyphen"/>ſcience in diſputable
+points, then we Papiſts muſt have a tolera<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> There is more then <hi>Religion,</hi> and matter of <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> in
+this matter: there is matter of <hi>State</hi> and ſafety of Common-wealth in it, which admits
+not of a toleration, un<g ref="char:EOLhyphen"/>leſs Papiſts could give us ſecurity for our lives,</p>
+               <p>For Papiſts are profeſſed enemies to Proteſtants, and to their lives, ſo as we cannot
+live in ſafety by them: for to fur<g ref="char:EOLhyphen"/>ther their Catholick cauſe, they hold it their duty to blow
+up with <hi>powder</hi> an whole Parliament at once, &amp; to cut the <hi>throats</hi> of an whole
+Kingdom of Proteſtants, as in <hi>Ireland</hi> of late years, and the like, of the Popiſh
+maſſacre of many thouſands of Proteſtants at <hi>Paris</hi> in <hi>France:</hi> No
+Hereticks are ſo bloo<g ref="char:EOLhyphen"/>dy minded as Papiſts, nor ſo dangerous to be tolerated as they be: No
+Heretick ſeeks the life of his neighbour, and ru<g ref="char:EOLhyphen"/>ine of the <hi>Nation</hi> wherein he lives, but
+a Papiſt: If therefore it were ſafe to tolerate their Religion, is it ſafe to tolerate ſuch
+murtherers, who wait daily for a time to cut all our throats.</p>
+               <p>Object. 5. <hi>Chriſt rebuked the Angel of the Church at Thy<g ref="char:EOLhyphen"/>atira, for</hi> ſuffering
+<hi>Jezebel to teach and deceive his people,</hi> Rev. 2.18.20. <hi>And St.</hi> Paul <hi>ſaith
+of deceiveable teachers, their mouths muſt be ſtopped,</hi> Tit. 1.11. <hi>Now this is contrary
+to to<g ref="char:EOLhyphen"/>leration.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Theſe Texts concern not the office of the <hi>Ma<g ref="char:EOLhyphen"/>giſtrate,</hi> but of
+the <hi>Miniſter,</hi> as of the Angel of the Church, <hi>Rev.</hi> 2.18. He ought to rebuke them
+ſharply, <hi>Tit.</hi> 1.13. Now it is not meet that the Miniſter ſhould ſuffer known
+er<g ref="char:EOLhyphen"/>rours to be in his Church, but that he ſhould ſtop them, by convincing them by the
+Scriptures: but I like not of ſome Miniſters, who in ſtead of convincing, fall a
+<hi>railing</hi> at the perſons, crying out againſt them, oh! theſe <hi>Presbyterians,
+Independents, Anabaptiſts,</hi> &amp;c. are dangerous perſons, &amp;c. I
+<pb n="14" facs="tcp:119181:8"/>like well to hear theſe opinions ſoberly confuted, but not
+<hi>re<g ref="char:EOLhyphen"/>viled.</hi> 2 Theſe Texts ſpeak not againſt diſputable points, but againſt
+<hi>Idolatry, Rev.</hi> 2.20. and <hi>lying, Tit.</hi> 1.12. which are ſins clearly revealed in
+Scripture.</p>
+               <p>Obj. 6. <hi>If a</hi> kingdom <hi>be</hi> divided <hi>againſt it ſelfe, it cannot
+ſtand,</hi> Mark 3.24.</p>
+               <p>
+                  <hi>Anſw.</hi> This parable is true of a <hi>Kingdome:</hi> for if the Sub<g ref="char:EOLhyphen"/>jects take up Arms
+one againſt another, that Kingdome will come to ruine: but the caſe is not alike in a
+<hi>Church,</hi> where all agree in all things clearly revealed, but differ in ſome diſ<g ref="char:EOLhyphen"/>putable
+points darkly revealed. For 1. In <hi>Holland</hi> there are many of differing opinions, &amp; yet
+that Nation ſtands and flouriſheth, and ſo doth that Church of <hi>Preſbyterians.</hi> 2.
+In the Common-wealth of the <hi>Jewes,</hi> there were many <hi>ſtrangers</hi> tolerated, who
+were no Proſelytes of the Jewiſh Religion: for they were not <hi>circumciſed,</hi> neither
+did they eat the <hi>Paſs<g ref="char:EOLhyphen"/>over, Exod.</hi> 12.43, 45.48. and ſee <hi>Deut.</hi> 14.21. And yet
+that Common-wealth ſtood, and ſo did that Church.</p>
+               <p>Obj 7. <hi>Then the Maſter ſaid unto the</hi> ſervant, <hi>Go forth into the high
+wayes,</hi> &amp;c. <hi>and</hi> compell <hi>them to come in to my Supper,</hi> &amp;c.
+<hi>Luk.</hi> 14.23. <hi>Hereby we ſee, that compulſion may be made in matters of
+Religion.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> By the <hi>Servant</hi> here, is not meant the <hi>Magiſtrate,</hi> of whom
+our queſtion is: for in theſe dayes they had no chri<g ref="char:EOLhyphen"/>ſtian Magiſtrate that would compell
+any to be Religious: but we muſt underſtand, the <hi>Miniſter,</hi> whoſe office is to
+invite and call in, yea, to compell the gueſts to come to Chriſt his feaſt: now there is a
+compulſion and conſtraint by the for<g ref="char:EOLhyphen"/>cible exhortations and perſwaſions of the ſtrong
+arguments of the Miniſter, <hi>Luke</hi> 24.29. <hi>Acts</hi> 16 15. So notwithſtan<g ref="char:EOLhyphen"/>ding this
+Text, the Magiſtrate may maintaine Liberty of Conſcience.</p>
+               <trailer>FINIS</trailer>
+               <pb facs="tcp:119181:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
